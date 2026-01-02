@@ -2,7 +2,7 @@
 
 ![ParsPremium](https://github.com/user-attachments/assets/d9821f8a-616e-46a6-b5f4-8e2299ab7277)
 
-  - [Demo Project](https://pars-premium-j8y7.vercel.app/)
+  - [Demo Project](https://zarin-paal.vercel.app/)
   - 
 - Developed by Amir Mohammadian
 - Created - 2025-11-15
