@@ -16,8 +16,6 @@
 
 ![ParsPremium](https://github.com/user-attachments/assets/70ea49eb-94ec-42e9-b8e4-dbbdc4eb8ed7)
 
-![ParsPremium]()
-
   - [Demo Project](https://zarin-paal.vercel.app/)
   - 
 - Developed by Amir Mohammadian
